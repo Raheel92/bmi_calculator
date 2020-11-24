@@ -1,2 +1,2 @@
-# bmi_calculator
+# BMI Calculator
 Python Script for BMI Calculation
